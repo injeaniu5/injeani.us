@@ -1,0 +1,21 @@
+---------------------
+ Credits
+---------------------
+
+- Bootstrap 4.1 - http://getbootstrap.com/docs/4.1/getting-started/introduction/
+- Masonry Grid - http://masonry.desandro.com/
+- Font Awesome 4.7 - http://fontawesome.io/
+
+
+---------------------
+ Images
+---------------------
+
+Demo mockups from http://www.pixeden.com/
+
+---------------------
+ Fonts
+---------------------
+
+http://fonts.google.com/specimen/Roboto
+
